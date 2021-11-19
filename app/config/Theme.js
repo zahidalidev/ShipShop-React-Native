@@ -1,0 +1,23 @@
+export default {
+    primary: '#F33B2F',
+    primaryLight: "rgba(243, 59, 47, 0.15)",
+    secondary: '#F4F4F4',
+    white: "#fff",
+    black: '#000',
+    greyDark: '#828282',
+    darkBlack: '#0E0F0F',
+    lightGrey: '#FAFAFA',
+    inputFieldBackgroundColor: "#E2E8F0",
+    grey: "#808080",
+    lightPink: '#E0D3A7',
+    grey: '#636E7E',
+    pink: '#E0D3A775',
+    lightBrown: '#5F5F5F',
+    lightestBrownish: '#939C84',
+    lightOrange: '#F9C24B',
+    darkBlue: '#585DF9',
+    toolightGrey: '#E5E5E5',
+    lightWhite: '#F3F3F3',
+    inputFieldGrey: '#F1F1F1',
+    lightBlack: '#1E1E1E'
+}
